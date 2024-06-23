@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1716321633 source:c:\users\mikimare\desktop\new folder (7)\ff\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+

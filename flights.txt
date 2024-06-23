@@ -1,0 +1,3 @@
+FL123 New_York 100
+FL456 Los_Angeles 150
+FL789 Chicago 200
